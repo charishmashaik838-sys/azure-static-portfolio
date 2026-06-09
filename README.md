@@ -23,11 +23,11 @@ This project demonstrates how to deploy a static portfolio website using Microso
 
 ## Live Website URL
 
-PASTE_YOUR_AZURE_URL_HERE
+(https://charishmaportfolio.z13.web.core.windows.net/)
 
 ## GitHub Repository Link
 
-PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE
+(https://github.com/charishmashaik838-sys/azure-static-portfolio.git)
 
 ## Outcome
 
